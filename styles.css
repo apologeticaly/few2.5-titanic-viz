@@ -1,0 +1,12 @@
+#titanic {
+    display: grid;
+    grid-template-columns: repeat(30, 40px);
+    grid-gap: 5px;
+}
+
+.passenger {
+    background-position: center;
+    width: 10px;
+    height: 10px;
+    padding: 5px
+}
